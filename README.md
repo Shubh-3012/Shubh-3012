@@ -1,58 +1,45 @@
-# Shubh Parekh <br>
+# Shubh Parekh
 
-## Contact Me: <br>
+📧 snparekh@wisc.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/shubhparekhwsb/) | 📱 (262) 309-0443
 
-**Phone Number:** (262) 309 0443<br>
-**Email:** shubhparekh1@gmail.com<br>
-**Connect with me on LinkedIn:** www.linkedin.com/in/shubh-parekh-1b3b30196<br>
+## Profile
+Business Analytics candidate with a passion for data storytelling and 2+ years of experience transforming complex datasets into actionable business strategies. Proven ability to bridge the gap between technical data analysis (SQL, Python) and executive decision-making. Skilled in building interactive dashboards that narrate the "why" behind the numbers, driving measurable revenue growth and operational efficiency. Eager to leverage a background in Economics and Sales Operations to help organizations make data-backed decisions.
 
-## Education <br>
+## Education
+* **University of Wisconsin-Madison, Wisconsin School of Business, Madison, WI**
+  * Master of Science in Business Analytics Candidate, 2026
+* **Gettysburg College, Gettysburg, PA**
+  * Bachelor of Arts in Economics, 2023
 
-B.A. Economics, Minor in Data Science, and Business | Gettysburg College (_May 2023_)<br>
+## Professional Experience
 
-**Software:** MS Power BI, Tableau, Python, SQL, Microsoft SQL Server Management Studio SPSS, Stata, R Studio, MS Excel <br>
-**Analytical Skills:** Data Visualization, Data Manipulation, Regression Analysis, Time Series, Query Management<br>
-**CRM/ Marketing Skills:** HubSpot, Salesforce, PlanProphet<br>
+### Career Impact & Data Intern | SuccessWorks at the College of Letters and Science, Madison, WI
+*08/25 - Present* | *On-Campus Department helping students explore careers, build skills, and connect with employers.*
+* Design and maintain interactive dashboards that track student engagement KPIs, translating raw attendance data into a clear narrative for leadership resource allocation.
+* Serve as the primary lead for maintaining master data integrity across 3,000+ records, ensuring the "truth" behind the data is accurate for reporting.
+* Created comprehensive Standard Operating Procedures (SOPs) for data entry, standardizing workflows to ensure consistent data quality.
 
-## Professional Experience: <br>
+### Sales Data Analyst | Strategic Factory, Owings Mills, MD
+*01/24 - 06/25* | *Multi-service provider specializing in integrated marketing, branding, print, signage, and creative solutions for businesses.*
+* Partnered with the VP of Sales to analyze customer segments and territory performance, using data to tell a compelling story that justified a strategic shift in sales targets.
+* Identified under-monetized accounts through segmentation analysis, directly contributing to a 12% increase in annual revenue.
+* Spearheaded the migration from manual spreadsheets to a suite of 28 automated Power BI dashboards, giving leadership real-time visibility into the sales funnel.
+* Analyzed production workflows to identify bottlenecks, implementing process changes that reduced material waste by 25%.
 
-**Sales Data Analyst**<br>
-Strategic Factory US<br>
-Owings Mills, MD | January 2024— Current<br>
+## Projects
 
-- Optimized sales workflows by designing interactive Power BI dashboards, enabling sales managers to track key performance indicators efficiently.
-- Analyzed sales data trends and correlations to provide actionable insights, supporting data-driven decision-making for sales strategies.
-- Developed automated Paginated Reports for the executive team, ensuring timely and accurate reporting.
-- Serving as the Subject Matter Expert for estimating and order management software, collaborating with the executive team to derive pricing strategies based on job category and components.
+### SF1 Production Schedule Dashboard
+* Developed to provide a clear, real-time visualization of production workload distribution across key presses in the SF1 facility.
+* Built using SQL for robust data extraction and transformation to seamlessly centralize scattered production data.
+* Leveraged Power BI to create an interactive visualization layer, significantly improving scheduling oversight and operational efficiency.
 
-**Sales Development Representative**<br>
-K. G. Stevens<br>
-Milwaukee, WI | June 2024— August 2024
+### End-to-End Sales Analytics Suite
+* Designed and deployed a comprehensive analytics solution to provide real-time visibility for the executive leadership team.
+* Leveraged Advanced SQL (Joins, CTEs) to engineer unified data views by consolidating disparate records from CRM and ERP sources.
+* These master datasets fed into interactive dashboards that visualized key performance indicators, including Customer Segmentation, Product Category trends, and individual Sales Rep metrics, enabling data-driven forecasting and strategic resource allocation across the sales organization.
 
-- Build and maintain strong relationships with customers by providing exceptional customer service and product knowledge.
-- Conduct market research and competitor analysis to identify potential business opportunities.
-
-**Student Research Intern** <br>
-Gettysburg College - Office of Institutional Research<br>
-Gettysburg, PA | March 2022— May 2023<br>
-
-- Assisted in the collection, analysis, and interpretation of institutional data to support decision-making and academic planning.
-- Conducted statistical analysis using software tools like Stata, SPSS and Power BI generating reports and visualizations for various departments.
-- Maintained and updated databases, ensuring accuracy and consistency of data used for institutional reports, including IPEDS and CDS submissions.
-
-## Research Experience: <be>
-
-**Honors Thesis Research** <br>
-Department of Economics, Gettysburg College<br>
-Gettysburg, PA | August 2022— May 2023<br>
-
-- Conducted an independent research project analyzing the impact of charging infrastructure on electric vehicle (EV) sales across 15 U.S. states from 2018-2022.
-- Utilized STATA to perform data analysis, applying an Ordinary Least Squares (OLS) model to assess the relationship between charging stations and EV registration.
-- Controlled for confounding variables, including state and year fixed effects, and total vehicle registration, to isolate the effect of charging infrastructure on EV adoption.
-- Synthesized findings into a comprehensive thesis, presenting key insights on the role of government incentives
-
-## Honors and Awards: <be>
-- Departmental Honors, Economics 2023
-- Omicron Delta Epsilon, Economics Honors Society 2023
-- Pi Lambda Sigma, Social Science Honors Society 2023
-
+## Skills
+* **Analysis & Programming:** SQL (Joins, CTES, Window Functions), Python (Pandas, NumPy), R, Advanced Excel (VBA, Macros, Power Query).
+* **Data Visualization:** Microsoft Power BI (DAX), Tableau, Google Analytics, Executive Dashboards.
+* **Business Tools:** Salesforce, HubSpot, Snowflake, Generative Al (ChatGPT/Gemini for coding & efficiency).
+* **Core Competencies:** Data Storytelling, A/B Testing, Process Automation, Revenue Operations, Stakeholder Management.
