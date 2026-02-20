@@ -1,6 +1,6 @@
 # Shubh Parekh
 
-📧 snparekh@wisc.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/shubhparekhwsb/) | 📱 (262) 309-0443
+📧 shubhparekh1@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/shubhparekhwsb/) | 📱 (262) 309-0443
 
 ## Profile
 Business Analytics candidate with a passion for data storytelling and 2+ years of experience transforming complex datasets into actionable business strategies. Proven ability to bridge the gap between technical data analysis (SQL, Python) and executive decision-making. Skilled in building interactive dashboards that narrate the "why" behind the numbers, driving measurable revenue growth and operational efficiency. Eager to leverage a background in Economics and Sales Operations to help organizations make data-backed decisions.
